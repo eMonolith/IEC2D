@@ -2,7 +2,7 @@
 
                                     IEC2D
 
-               Inertial Electrostatic Confinement in 2-dimentions
+               Inertial Electrostatic Confinement in 2-dimensions
 
     A game simulator of an IEC fusor that I will improve as my knowledge of 
 particle system algorithems improves. There are improvements on the drawing 

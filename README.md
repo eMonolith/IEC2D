@@ -1,7 +1,7 @@
 # IEC2D
 # IEC2D
 # IEC2D
-IEC2D: inerital electrostatic confinment fusor simulator
+IEC2D: Inertial Electrostatic Confinement Fusor simulator.
 
 control and operation:
 
@@ -25,5 +25,3 @@ enter > spawn particles
 y u i o p > +/1/- power
 g h j k l > +/1/- air friction
 b n m > +/0/- gravity
-
- 

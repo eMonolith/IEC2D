@@ -1,21 +1,14 @@
-# IEC2D
-# IEC2D
-# IEC2D
-IEC2D: Inertial Electrostatic Confinement Fusor simulator.
 
-control and operation:
 
-    starting emittion of electrons
+                                    IEC2D
 
-        space bar/ATTRACTION_POWER, enter/SPAWN_PARTICLES controls
+               Inertial Electrostatic Confinement in 2-dimentions
 
-        particle limits/1000000 and priming of chamber/spawning some number of particles
+    A game simulator of an IEC fusor that I will improve as my knowledge of 
+particle system algorithems improves. There are improvements on the drawing 
+board now, but I lack the knowledge to implament them in C or C++.
+    As my knowledge of particle systems algorithems improves so too will IEC2D.
 
-starting chamber interactions and control:
-
- release of space bar
-
- maintaining desired reaction probability
 --------------------------------------------------------------------------------------------
 
 KEYBOARD CONTROL KEYS:

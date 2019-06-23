@@ -16,7 +16,14 @@ starting chamber interactions and control:
  release of space bar
 
  maintaining desired reaction probability
+--------------------------------------------------------------------------------------------
 
-
+KEYBOARD CONTROL KEYS:
+s d > toggle fullscreen
+space bar > deactivate center mass attraction power
+enter > spawn particles
+y u i o p > +/1/- power
+g h j k l > +/1/- air friction
+b n m > +/0/- gravity
 
  

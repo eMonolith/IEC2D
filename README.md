@@ -4,7 +4,8 @@
 
                Inertial Electrostatic Confinement in 2-dimensions
 
-    A game simulator of an IEC fusor that I will improve as my knowledge of 
+
+  A game simulator of an IEC fusor that I will improve as my knowledge of 
 particle system algorithems improves. There are improvements on the drawing 
 board now, but I lack the knowledge to implement them in C or C++.
     As my knowledge of particle systems algorithems improves so too will IEC2D.

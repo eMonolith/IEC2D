@@ -13,9 +13,9 @@ board now, but I lack the knowledge to implement them in C or C++.
 --------------------------------------------------------------------------------------------
 
 KEYBOARD CONTROL KEYS:
-s d > toggles fullscreen
-space bar > deactivate center mass attraction power
-enter > spawn particles
-y u i o p > +/1/- power
-g h j k l > +/1/- air friction
-b n m > +/0/- gravity
+s d > toggles fullscreen.
+space bar > deactivate center mass attraction power.
+enter > spawn particles.
+y u i o p > +/1/- power.
+g h j k l > +/1/- air friction.
+b n m > +/0/- gravity.

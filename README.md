@@ -1,6 +1,6 @@
-                                                                     IEC2D
+                                          IEC2D
 
-                                Inertial Electrostatic Confinement in 2-dimensions
+                    Inertial Electrostatic Confinement in 2-dimensions
 
 
   A game simulator of an IEC fusor that I will improve as my knowledge of 

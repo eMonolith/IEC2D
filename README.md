@@ -1,8 +1,6 @@
+                                                                     IEC2D
 
-
-                                    IEC2D
-
-               Inertial Electrostatic Confinement in 2-dimensions
+                                Inertial Electrostatic Confinement in 2-dimensions
 
 
   A game simulator of an IEC fusor that I will improve as my knowledge of 
@@ -12,13 +10,12 @@ board now, but I lack the knowledge to implement them in C or C++.
 
 --------------------------------------------------------------------------------------------
 
-KEYBOARD CONTROL KEYS:
-s d > toggles fullscreen.
-space bar > deactivate center mass attraction power.
-enter > spawn particles.
-y u i o p > +/1/- power.
-g h j k l > +/1/- air friction.
-b n m > +/0/- gravity.
-
+    KEYBOARD CONTROL KEYS:
+        s d > toggles fullscreen.
+        space bar > deactivate center mass attraction power.
+        enter > spawn particles.
+        y u i o p > +/1/- power.
+        g h j k l > +/1/- air friction.
+        b n m > +/0/- gravity.
 
 --------------------------------------------------------------------------------------------

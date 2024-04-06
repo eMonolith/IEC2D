@@ -11,6 +11,7 @@ board now, but I lack the knowledge to implement them in C or C++.
 --------------------------------------------------------------------------------------------
 
     KEYBOARD CONTROL KEYS:
+    
         s d > toggles fullscreen.
         space bar > deactivate center mass attraction power.
         enter > spawn particles.

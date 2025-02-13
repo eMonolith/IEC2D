@@ -10,12 +10,20 @@ board now, but I lack the knowledge to implement them in C or C++.
 
 --------------------------------------------------------------------------------------------
 
-    KEYBOARD CONTROL KEYS:
-s d > toggle fullscreen
+KEYBOARD CONTROL KEYS:
+
+s d > toggle fullscreen/windowed
+
 space bar > deactivate center mass attraction power
+
 enter > spawn particles
+
 q w e r t > +/1/- repel
+
 y u i o p > +/1/- power
+
 g h j k l > +/1/- air friction
+
 b n m > +/0/- gravity
+
 --------------------------------------------------------------------------------------------

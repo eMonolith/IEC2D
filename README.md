@@ -18,12 +18,12 @@ space bar > deactivate center mass attraction power
 
 enter > spawn particles
 
-q w e r t > +/1/- repel
+q w e r t > +/1/- = repel
 
-y u i o p > +/1/- power
+y u i o p > +/1/- = power
 
-g h j k l > +/1/- air friction
+g h j k l > +/1/- = air friction
 
-b n m > +/0/- gravity
+b n m > +/0/- = gravity
 
 --------------------------------------------------------------------------------------------

@@ -27,3 +27,8 @@ g h j k l > +/1/- = air friction
 b n m > +/0/- = gravity
 
 --------------------------------------------------------------------------------------------
+
+UPDATE 07/27/2025:
+
+I have started from scratch for the IEC2D simulator.
+See project IEC2DX.
